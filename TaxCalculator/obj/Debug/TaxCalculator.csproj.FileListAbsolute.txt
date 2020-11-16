@@ -1,0 +1,10 @@
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.cache
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:\Users\jojo0604\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.TaxCalculator.resources
